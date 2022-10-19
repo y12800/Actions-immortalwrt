@@ -30,12 +30,12 @@ sed -i '/customized in this file/a net.netfilter.nf_conntrack_max=165535' packag
 
 #sirpdboy
 git clone https://github.com/sirpdboy/luci-app-lucky.git package/luci-app-lucky
-git clone --depth 1 https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic package/luci-app-unblockneteasemusic
+git clone https://github.com/kenzok8/openwrt-packages.git package/luci-app-unblockneteasemusic
 git clone https://github.com/sirpdboy/luci-app-autotimeset.git package/luci-app-autotimeset
-git clone --depth 1 https://github.com/ZeaKyX/luci-app-speedtest-web package/luci-app-speedtest-web
-git clone --depth 1 https://github.com/ZeaKyX/speedtest-web package/speedtest-web
+git clone https://github.com/kenzok8/openwrt-packages.git package/luci-app-speedtest-web
+git clone https://github.com/kenzok8/openwrt-packages.git package/speedtest-web
 git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme-opentopd
-#git clone https://github.com/sirpdboy/sirpdboy-package.git package/sirpdboy-package
+# git clone https://github.com/sirpdboy/sirpdboy-package.git package/sirpdboy-package
 # git clone https://github.com/sirpdboy/luci-app-advanced.git package/luci-app-advanced
 # git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 # git clone https://github.com/sirpdboy/luci-app-poweroffdevice.git package/luci-app-poweroffdevice
