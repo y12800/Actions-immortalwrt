@@ -30,8 +30,10 @@ sed -i '/customized in this file/a net.netfilter.nf_conntrack_max=165535' packag
 
 #sirpdboy
 git clone https://github.com/sirpdboy/luci-app-lucky.git package/luci-app-lucky
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
 git clone https://github.com/sirpdboy/luci-app-autotimeset.git package/luci-app-autotimeset
-git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest
+git clone https://github.com/ZeaKyX/luci-app-speedtest-web.git package/luci-app-speedtest-web
+git clone https://github.com/ZeaKyX/speedtest-web.git package/speedtest-web
 git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme-opentopd
 #git clone https://github.com/sirpdboy/sirpdboy-package.git package/sirpdboy-package
 # git clone https://github.com/sirpdboy/luci-app-advanced.git package/luci-app-advanced
