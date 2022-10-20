@@ -52,6 +52,10 @@ git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/l
 git clone https://github.com/sirpdboy/luci-app-lucky.git package/luci-app-lucky
 git clone https://github.com/sirpdboy/luci-app-autotimeset.git package/luci-app-autotimeset
 
+# git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
+# git clone https://github.com/ZeaKyX/luci-app-speedtest-web.git package/luci-app-speedtest-web
+# git clone https://github.com/ZeaKyX/speedtest-web.git package/speedtest-web
+
 git clone https://github.com/peijan520/filebrowser.git package/filebrowser
 # git clone https://github.com/immortalwrt-collections/openwrt-filebrowser.git package/openwrt-filebrowser
 
