@@ -50,6 +50,7 @@ git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/l
 
 
 git clone https://github.com/sirpdboy/luci-app-lucky.git package/luci-app-lucky
+git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
 git clone https://github.com/sirpdboy/luci-app-autotimeset.git package/luci-app-autotimeset
 
 git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
