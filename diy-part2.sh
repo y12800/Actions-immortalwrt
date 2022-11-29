@@ -32,7 +32,7 @@ sed -i '/customized in this file/a net.netfilter.nf_conntrack_max=165535' packag
 
 #sirpdboy
 # git clone https://github.com/sirpdboy/sirpdboy-package.git package/sirpdboy-package
-git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme-opentopd
+git clone https://github.com/y12800/luci-theme-opentopd.git package/luci-theme-opentopd
 # git clone https://github.com/sirpdboy/luci-app-advanced.git package/luci-app-advanced
 # git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest
 
@@ -45,7 +45,7 @@ git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme
 # themes添加（svn co 命令意思：指定版本如https://github）
 # git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
-git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
+git clone https://github.com/y12800/luci-theme-atmaterial.git package/luci-theme-atmaterial
 
 # git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
 
@@ -54,24 +54,24 @@ git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/l
 # git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 
 # git clone https://github.com/gdy666/luci-app-lucky.git package/luci-app-lucky
-git clone https://github.com/sirpdboy/luci-app-lucky.git package/luci-app-lucky
+git clone https://github.com/y12800/luci-app-lucky.git package/luci-app-lucky
 # git clone https://github.com/y12800/luci-app-lucky.git package/lucky
-git clone https://github.com/sirpdboy/luci-app-autotimeset.git package/luci-app-autotimeset
+git clone https://github.com/y12800/luci-app-autotimeset.git package/luci-app-autotimeset
 
-git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
-git clone https://github.com/ZeaKyX/luci-app-speedtest-web.git package/luci-app-speedtest-web
+git clone https://github.com/y12800/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
+git clone https://github.com/y12800/luci-app-speedtest-web.git package/luci-app-speedtest-web
 git clone https://github.com/ZeaKyX/speedtest-web.git package/speedtest-web
 
 git clone https://github.com/y12800/luci-app-filebrowser package/filebrowser
 # git clone https://github.com/immortalwrt-collections/openwrt-filebrowser.git package/openwrt-filebrowser
 
 #添加额外非必须软件包
-git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+git clone https://github.com/y12800/luci-app-adguardhome.git package/luci-app-adguardhome
+git clone https://github.com/y12800/OpenClash.git package/OpenClash
 # git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 # git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-pushbot
 # git clone https://github.com/riverscn/openwrt-iptvhelper.git package/openwrt-iptvhelper
 # git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
 #添加smartdns
 git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
-git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
+git clone -b lede https://github.com/y12800/luci-app-smartdns.git package/luci-app-smartdns
