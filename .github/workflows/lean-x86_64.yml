@@ -17,8 +17,8 @@ on:
     - cron: 0 16 4,9,14,19,24,28,31 * *
 
 env:
-  REPO_URL: https://github.com/y12800/lede
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_BRANCH: 20221001
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: lean-x86_64.config
   DIY_P1_SH: diy-part1.sh
